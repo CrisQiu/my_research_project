@@ -1,0 +1,44 @@
+name: my_research_project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+
+  # Jupyter
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - nbformat
+  - nbclient
+
+  # Core scientific computing
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - tqdm
+  - joblib
+
+  # Geospatial and raster processing
+  - rasterio
+  - geopandas
+  - shapely
+  - pyproj
+  - fiona
+  - rioxarray
+  - xarray
+  - netcdf4
+  - dask
+  - cartopy
+  - folium
+  - mapclassify
+
+  # Modelling and statistics
+  - scikit-learn
+  - statsmodels
+
+  # Google Earth Engine / geemap, only needed if SE1 uses GEE
+  - pip:
+      - earthengine-api
+      - geemap

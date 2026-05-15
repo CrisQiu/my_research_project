@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+
+title: "My Research Project"
+
+message: >
+  If you use this software, please cite it using the metadata below.
+  A Zenodo DOI will be provided when available.
+
+type: software
+
+authors:
+  - given-names: "Jiahui"
+    family-names: "Qiu"
+    affiliation: "University of Oulu"
+    email: "jiahui.qiu@oulu.fi"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+
+
+
+identifiers:
+  - type: url
+    value: "https://github.com/CrisQiu/my_research_project"
+    description: GitHub repository
+
+
+
+repository-code: "https://github.com/CrisQiu/my_research_project"
+
+url: "https://github.com/CrisQiu/my_research_project"
+
+abstract: >
+  Short project description
+
+keywords:
+  - research
+  - open-science
+  - reproducibility
+
+license: "MIT"
+
+version: "0.1.0"
+
+date-released: "2026"

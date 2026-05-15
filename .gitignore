@@ -1,0 +1,41 @@
+# Sensitive / user-level folders
+.ssh/
+.cache/
+.config/
+.local/
+.jupyter/
+.ipython/
+.npm/
+.cookiecutters/
+.cookiecutter_replay/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv/
+venv/
+conda-meta/
+
+# Data and large outputs
+raw_data/
+analysis_ready/
+Model_application/
+*.tif
+*.tiff
+*.nc
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# System files
+.DS_Store
+Thumbs.db
