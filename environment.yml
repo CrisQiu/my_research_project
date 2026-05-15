@@ -1,6 +1,8 @@
 name: my_research_project
+
 channels:
   - conda-forge
+
 dependencies:
   - python=3.11
   - pip
@@ -38,7 +40,7 @@ dependencies:
   - scikit-learn
   - statsmodels
 
-  # Google Earth Engine / geemap, only needed if SE1 uses GEE
+  # Google Earth Engine / geemap
   - pip:
       - earthengine-api
       - geemap
