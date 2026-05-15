@@ -11,3 +11,14 @@ ipywidgets
 jupyter-server
 earthengine-api
 geemap
+ipyleaflet
+folium
+rasterio
+joblib
+tqdm
+scipy
+pillow
+shapely
+pyproj
+pyogrio
+fiona
