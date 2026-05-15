@@ -1,0 +1,11 @@
+jupyterlab
+notebook
+nbconvert
+geopandas
+pandas
+numpy
+matplotlib
+scikit-learn
+ipykernel
+ipywidgets
+jupyter-server
